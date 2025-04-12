@@ -4,6 +4,7 @@ Welcome to the Ad Comment Analyzer documentation. Please review our policies bel
 
 - [Privacy Policy](#privacy-policy)
 - [Terms of Service](#terms-of-service)
+- [Data Deletion](#data-deletion)
 
 # Privacy Policy
 
@@ -82,3 +83,16 @@ Email: jessefree@gmail.com
 
 ## 8. Changes to Terms
 We may update these Terms from time to time. Continued use of the Service after changes constitutes acceptance of the new Terms.
+
+# Data Deletion
+
+## How to Request Data Deletion
+
+To request deletion of your data from Ad Comment Analyzer:
+
+1. Send an email to jessefree@gmail.com with the subject "Data Deletion Request"
+2. Include your Facebook User ID or the Page ID associated with your account
+3. We will process your request within 30 days and confirm when completed
+4. All associated data will be permanently deleted from our systems
+
+We respect your privacy rights and will handle all deletion requests in accordance with our Privacy Policy and applicable data protection laws.
